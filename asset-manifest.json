@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c5f4d1b.css",
+    "main.js": "/static/js/main.9bebd0e3.js",
+    "static/js/453.66ed9ea3.chunk.js": "/static/js/453.66ed9ea3.chunk.js",
+    "static/media/antiques3.png": "/static/media/antiques3.d6507d49b716602c983a.png",
+    "static/media/antiques.png": "/static/media/antiques.ab9c9590f050caa7a231.png",
+    "static/media/frontTemple.png": "/static/media/frontTemple.b186b34c8126ab9a7cb0.png",
+    "static/media/tutorialMuseum3.png": "/static/media/tutorialMuseum3.c7afb74253c0690ffa66.png",
+    "static/media/BuddhaSleeping.png": "/static/media/BuddhaSleeping.41ee8625fa203acd3df3.png",
+    "static/media/tutorialMuseum4.png": "/static/media/tutorialMuseum4.c61e43ef05308a114285.png",
+    "static/media/tutorialWat3.png": "/static/media/tutorialWat3.6838eb9b3391bf15d7e7.png",
+    "static/media/tutorialWat4.png": "/static/media/tutorialWat4.982d9029e9a1551625d2.png",
+    "static/media/BG2.png": "/static/media/BG2.3ea60deda4c90325cfea.png",
+    "static/media/frontTemple2.png": "/static/media/frontTemple2.9706e89532bc00e0ef2a.png",
+    "static/media/tutorialWat1.png": "/static/media/tutorialWat1.2333e00a124cab161b6b.png",
+    "static/media/antiques5.png": "/static/media/antiques5.9968aef956be2ddf4733.png",
+    "static/media/tutorialMuseum1.png": "/static/media/tutorialMuseum1.053fdff082253b1569c7.png",
+    "static/media/BG.png": "/static/media/BG.70915bc0b99b5467970b.png",
+    "static/media/antiques2.png": "/static/media/antiques2.0e5a418d1e59143cedcd.png",
+    "static/media/tutorialWat2.png": "/static/media/tutorialWat2.c4fadf160d17011e6408.png",
+    "static/media/reviews.png": "/static/media/reviews.0df0e01623e5745ac087.png",
+    "static/media/payment.png": "/static/media/payment.177837d007becaf91d48.png",
+    "static/media/seemsee.png": "/static/media/seemsee.26d7b047549cd959f0a1.png",
+    "static/media/sideTemple.png": "/static/media/sideTemple.104f8c021c566ffbe2c6.png",
+    "static/media/stickSeemsee.png": "/static/media/stickSeemsee.f2f270399bb62f00fad1.png",
+    "static/media/logo.png": "/static/media/logo.0c306dbd4f58c56c6b43.png",
+    "static/media/qrCode.png": "/static/media/qrCode.2a2b327651dd1c5f96d4.png",
+    "static/media/ideaIcon.png": "/static/media/ideaIcon.8f1d8201547534bba093.png",
+    "static/media/donate.png": "/static/media/donate.f9f02ad15022ca978604.png",
+    "static/media/museum.png": "/static/media/museum.4696c6faf1a9f35451ad.png",
+    "static/media/temple.png": "/static/media/temple.4e4ee59daf860149b9f5.png",
+    "index.html": "/index.html",
+    "main.9c5f4d1b.css.map": "/static/css/main.9c5f4d1b.css.map",
+    "main.9bebd0e3.js.map": "/static/js/main.9bebd0e3.js.map",
+    "453.66ed9ea3.chunk.js.map": "/static/js/453.66ed9ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5f4d1b.css",
+    "static/js/main.9bebd0e3.js"
+  ]
+}
